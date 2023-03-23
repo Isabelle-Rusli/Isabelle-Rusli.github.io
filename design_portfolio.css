@@ -1,0 +1,163 @@
+@charset "UTF-8";
+*{
+	padding: 0;
+	margin:0;
+}
+body {
+	width: 100%;
+	margin: 0 auto;
+    background-color: #FFFFFF;
+}
+
+.nav-container{
+	display:flex;
+	justify-content: flex-end;
+	
+	
+	
+}
+
+.right{
+	list-style-type: none;
+	
+
+
+	
+}
+
+.right li{
+	display:inline-block;
+	
+	
+	
+}
+
+.right li a{
+	text-decoration: none;
+	text-align: right;
+	display: block;
+	width: 60%;
+	height: 100%;
+	font-size: 14px;
+	color: #000;
+	padding: 14px 20px;
+	font-weight: 900;
+	font-family: 'DM Sans',Helvetica,Arial,Lucida,sans-serif;
+	
+}
+	
+.right li a:hover{  
+	color: #3891A6;
+	
+}
+
+.home_page_img{
+	width:600px;
+	padding-left: 435px;
+}
+    
+
+h1 {
+    color: #000;
+    font-family: 'DM Sans',Helvetica,Arial,Lucida,sans-serif;	
+	font-size:50px;
+	padding-left: 2%;
+	
+}
+h6 {
+    color: #000;
+    font-family: 'DM Sans',Helvetica,Arial,Lucida,sans-serif;	
+	font-size: 22px;
+	
+	
+}
+
+body p {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	width: 47%;
+	padding-left: 2%;
+	color: #595959;
+	font-size:20px;
+	
+}
+main{
+	width: 100%;
+	
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+	
+.container{
+	align-items: center;
+	justify-content:space-between;
+	display:flex;
+	width:100%;
+	
+	
+	
+}
+img{
+	max-width: 100%;
+
+	
+	
+}
+.about_page_img1{
+	flex-basis: 50%;
+	padding-left: 2%;
+	
+	
+	
+}
+
+.about_page_text{
+	align:left;
+	
+	
+}
+h2{
+	font-family: 'DM Sans',Helvetica,Arial,Lucida,sans-serif;
+	padding-left: 2%;
+	
+}
+.photo{
+	width:520px;
+	display:block;
+	margin-right: auto;
+	margin-left: auto;
+	align-content: center;
+	
+	
+
+}
+
+	
+
+img.about_coverpic{
+	width:520px;
+	height: auto;
+	float: right;
+
+}
+
+img.badminton_pics{
+	
+	height: auto;
+	
+	float:right;
+}
+
+.logo{
+	width: 180px;
+	align-content: left;
+	padding-left: 30px;
+}
+
+
+	
+  
+
